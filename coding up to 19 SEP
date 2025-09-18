@@ -119,7 +119,7 @@ Given the six existing problems and limited sample size, any linear or shallow m
 While ElasticNet outperformed on some splits, it failed to generalize globally. 
 This isn't a parameter tuning issue, but rather a problem of insufficient information and label noise.
 The Elastic Net coefficient and L1 sparsification tell which problems contribute the most
-
+In the future survey, X1 is more important questions compared with other variables
 
 
 
